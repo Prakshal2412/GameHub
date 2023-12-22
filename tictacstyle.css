@@ -39,3 +39,22 @@ body{
     border:1.25px solid black;
 }
 
+.new-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    border-radius: 1.25rem;
+    border:1.25px solid black;
+}
+
+#msg{
+    color: black;
+    font-size: 5vmin;
+}
+.msg-container-hide{
+    height:30vmin;
+}
+ 
+.hide{
+    display: none;
+}
+
